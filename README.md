@@ -8,5 +8,5 @@ Game Comprises of:
 - Home Menu, Eng Game Menu,
 - Normal & Hard Mode
 
-Most of the assets were sourced online, the code for my projects is availaible to view within this Github
+Most of the assets were sourced online, the code for my projects is availaible to view within this repository
 
