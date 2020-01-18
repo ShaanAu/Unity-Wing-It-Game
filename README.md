@@ -5,7 +5,7 @@ For sixth form i opted to create a video game for my coursework, and took my ins
 however instead of having a countinuous level I would include levels of different difficulties.
 
 Game Comprises of:
-- Home Menu, Eng Game Menu,
+- Home Menu, End Game Menu,
 - Normal & Hard Mode
 
 Most of the assets were sourced online, the code for my projects is availaible to view within this repository
